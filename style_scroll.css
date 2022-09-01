@@ -103,7 +103,6 @@
 }
 
 .button_arrow  {
-    /* background-color: none; */
     border: none;
     color: #aaa;
     cursor: pointer;
@@ -126,13 +125,6 @@
 
 @media (max-width: 391px){
 
-    /* .modal-log__container{
-        transform: translateX(1000px);
-    }
-
-    .active-popup{
-        transform: translate(0,10px);
-    } */
     .scroll__main-slide{
         transform: translateX(0);
         z-index: 1;
@@ -159,7 +151,6 @@
         position: relative;
         min-width: 360px;
         height: 210px;
-        /* padding-left: 60px; */
         padding-left: 0;
         padding-right: 15px;
     }
