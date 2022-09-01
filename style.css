@@ -286,67 +286,6 @@ html{
 }
 
 
-/* fjsdhfkdshfkldshfkdshfjkshfjkhfjksdhf */
-/* .destination__scroll{
-    margin-bottom: 0;
-    margin-top: 2px;
-    padding-top: 6px;
-    overflow: hidden;
-}
-
-.scroll__galery{
-    display: flex;
-    margin-left: -600px;
-}
-
-.scroll__box{
-    position: relative;
-
-}
-
-.box__img-mob{
-    display: none;
-}
-
-
-.box__img{
-    width: 800px;
-    height: 800px;
-    background: #FFFFFF;
-    border-radius: 16px;
-    margin-left: 60px;
-}
-
-
-.box__img-descriptions{
-    font-family: 'Red Hat Text';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 32px;
-    line-height: 42px;
-    color: #FFFFFF;
-    margin-left: 75px;
-    position: absolute;
-    bottom: 41px;
-    margin-bottom: 0;
-}
-
-
-.scroll__bar{
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-    margin-right: 6px;
-}
-
-.scroll__circle{
-    margin-left: 10px;
-    fill:#F2785C
-}
-
-.scroll__circle:hover{
-    fill: #F2785C;
-} */
 
 .box-svg-arrow{
     display: none;
