@@ -58,7 +58,7 @@
   padding: 0;
 }
 
-.modal-log__buttom {
+.modal-log__button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,48 +78,48 @@
   border: none;
 }
 
-.buttom_facebook {
+.button_facebook {
   background: #1877f2;
   color: #ffffff;
   margin-bottom: 21px;
 }
 
-.buttom_facebook:hover {
+.button_facebook:hover {
   background: #1876f2cd;
 }
 
-.buttom_google {
+.button_google {
   background: #ffffff;
   color: #0d606f;
   margin-bottom: 21px;
 }
 
-.buttom_google:hover {
+.button_google:hover {
   background: #ffffffb1;
 }
 
-.buttom_signUp {
+.button_signUp {
   background: #0d606f;
   color: #ffffff;
   margin-top: 3px;
   margin-bottom: 10px;
 }
 
-.buttom_signUp:hover {
+.button_signUp:hover {
   background: #0d606fce;
   transition: 0.1s;
 }
 
-.buttom_signUp:active {
+.button_signUp:active {
   background: #f2785cb3;
   transition: 0.1s;
 }
 
-.buttom-svg_google {
+.button-svg_google {
   margin-bottom: 0px;
 }
 
-.buttom-svg_facebook {
+.button-svg_facebook {
   margin-bottom: 0px;
 }
 
