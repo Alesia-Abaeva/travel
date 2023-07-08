@@ -19,7 +19,6 @@
   padding-left: 60px;
 }
 
-/* Картинка мастабируется по отношению к родительскому элементу */
 .scroll__galery .scroll__box img {
   object-fit: cover;
   max-width: 800px;
@@ -35,7 +34,6 @@
   display: none;
 }
 
-/* Кнопки вперед и назад */
 .slider .prev,
 .slider .next {
   cursor: pointer;
@@ -55,12 +53,12 @@
   right: 0;
   border-radius: 3px 0 0 3px;
 }
-/* При наведении на кнопки добавляем фон кнопок */
+
 .slider .prev:hover,
 .slider .next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
-/* Заголовок слайда */
+
 .box__img-descriptions {
   font-family: "Red Hat Text";
   font-style: normal;
@@ -74,7 +72,6 @@
   margin-bottom: 0;
 }
 
-/* Кружочки */
 .scroll__bar {
   text-align: center;
   margin-top: 20px;
